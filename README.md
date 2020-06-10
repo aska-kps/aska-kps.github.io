@@ -1,2 +1,2 @@
 # aska-kps.github.io
-Demo
+[Mogo] (https://aska-kps.github.io/Mogo/ "Макет")
