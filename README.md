@@ -1,6 +1,9 @@
 # aska-kps.github.io
 
 
+[a,b] = [b,a];
+
+
 [Mogo](https://aska-kps.github.io/Mogo/ "Макет")
 
 
@@ -8,3 +11,5 @@
 
 
 [Modernist](https://aska-kps.github.io/Modernist/ "Макет")
+
+
