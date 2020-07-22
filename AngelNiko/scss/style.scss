@@ -1175,7 +1175,7 @@ header {
                 font-size: 13px;
                 margin-top: 35px;
             }
-            @media(max-width: $md2) {
+            @media(max-width: $md3) {
                 font-size: 13px;
                 margin-top: 15px;
             }
@@ -1196,7 +1196,7 @@ header {
             padding: 25px 20px;
         }
         @media(max-width: $md3) {
-            padding: 15px 20px;
+            padding: 10px 20px;
         }
     }
 
