@@ -240,6 +240,12 @@ header {
   overflow: auto;
 }
 
+@media (max-width: 767.98px) {
+  .header__menu {
+    width: 100%;
+  }
+}
+
 .header__list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -250,7 +256,6 @@ header {
 .header__list li {
   list-style: none;
   position: relative;
-  cursor: pointer;
 }
 
 .header__list li:nth-child(2):after, .header__list li:nth-child(3):after, .header__list li:nth-child(4):after, .header__list li:nth-child(5):after {
@@ -260,6 +265,17 @@ header {
   width: 1px;
   top: 0;
   height: 1px;
+  cursor: pointer;
+}
+
+@media (max-width: 767.98px) {
+  .header__list li:nth-child(2):after, .header__list li:nth-child(3):after, .header__list li:nth-child(4):after, .header__list li:nth-child(5):after {
+    left: 120px;
+  }
+}
+
+.header__list li a {
+  cursor: pointer;
 }
 
 @media (max-width: 767.98px) {
