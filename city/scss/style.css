@@ -112,10 +112,7 @@ input {
   }
 }
 
-.header .header__menu {
-  position: absolute;
-  left: -110%;
-}
+
 
 @media (max-width: 768px) {
   .header .header__menu {
